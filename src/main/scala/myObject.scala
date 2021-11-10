@@ -4,5 +4,6 @@ object myObject extends App {
 
   println(poly.area)
   println(s"The area of the rectangle is ${pol1.area}")
+  println(pol1.perimeter)
 
 }
